@@ -1,0 +1,56 @@
+.App-content{
+    height: 75%;
+    width: 100%;
+    background-color: rgb(221, 224, 224);
+    padding-top: 2rem;
+    padding-bottom:3rem;
+  }
+  .calculator-Box{
+    height: 85%;
+    width:50%;
+    margin-left: 25%;
+  }
+  .title-wrapper{
+    margin-left:45%;
+    border-style: none;
+  }
+  h3{
+    text-align: center;
+    font-size:1.8rem;
+  }
+  :root{
+    --bdr-black:1px solid #000000;
+}
+
+input{
+    
+    border:var(--bdr-black);
+}
+.col-sm-9{
+   
+    border:var(--bdr-black);
+}
+.col-sm-3{
+    
+    border:var(--bdr-black);
+}
+.title-wrapper{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    border:var(--bdr-black);
+}
+input, button {
+    height:4rem;
+    border:var(--bdr-black)!important;
+
+}
+.btn-default{
+    border:var(--bdr-black)!important;
+    font-size: 1.8rem;
+}
+.btn-success{
+    font-size: 1.8rem;
+}

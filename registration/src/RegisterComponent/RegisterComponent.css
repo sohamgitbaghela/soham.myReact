@@ -1,0 +1,32 @@
+.App-content{
+    height: 75%;
+    width: 100%;
+    background-color: rgb(221, 224, 224);
+  }
+  .Mybox{
+    margin-left: 24%;
+    height: auto;
+    width: 50%;
+  }
+  h3{
+    text-align: center;
+    font-size:1.8rem;
+  }
+  #usergender{
+    text-align: center;
+    margin-right:5%;
+  }
+  #gender{
+    margin-left:2%;
+    margin-right:2%;
+  }
+  #submitbtn{
+    margin-top: 1%;
+    margin-bottom:1%;
+    margin-left:43%;
+  }
+  .form-group{
+    margin-top: 1.5%;
+    margin-bottom:1.5%;
+
+  }

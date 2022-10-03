@@ -1,0 +1,27 @@
+.App-content{
+    height: 75%;
+    width: 100%;
+    background-color: rgb(221, 224, 224);
+  }
+  h3{
+    text-align: center;
+    font-size:1.8rem;
+  }
+  .Mybox{
+    margin-left: 24%;
+    height: 65%;
+    width: 50%;
+  }
+  #mybtn{
+    margin-left: 39%;
+  }
+  #my-label1{
+    margin-top: 1rem;;
+    margin-left:1rem;
+    font-size: 1.2rem;
+  }
+  #my-label2{
+    margin-left:1rem;
+    font-size: 1.2rem;
+  }
+  

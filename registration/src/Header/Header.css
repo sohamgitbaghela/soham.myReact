@@ -1,0 +1,10 @@
+.App-header{
+  height: 11%;
+  width: 100%;
+  background-color: darkcyan;
+}
+h1{
+  text-align: center;
+  font-size:2rem;
+ margin-bottom:0;
+}

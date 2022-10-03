@@ -1,0 +1,19 @@
+#Navbar-content{
+    height: 8%;
+    width: 100%;
+}
+h5{
+    text-align: center;
+    font-size: 1.1rem;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+.nav-item{
+    float:left;
+    margin-left: 7.5%;
+    margin-right:7.5%;
+    font-size: 1.4rem;
+    font-weight: 400;
+}

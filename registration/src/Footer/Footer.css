@@ -1,0 +1,9 @@
+.App-footer{
+    height: 7%;
+    width: 100%;
+    background-color: rgb(231, 164, 78);
+  }
+  h4{
+    text-align: center;
+    font-size:1.5rem;
+  }
